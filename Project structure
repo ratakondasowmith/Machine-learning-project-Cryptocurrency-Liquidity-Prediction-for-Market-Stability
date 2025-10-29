@@ -1,0 +1,14 @@
+CryptoLiquidityProject/
+├── data/
+│   └── coin_gecko_2022-03-16.csv   # your dataset (place here)
+├── src/
+│   ├── utils.py
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model_training.py
+│   ├── eda.py
+│   └── main.py
+├── app/
+│   └── app.py
+├── requirements.txt
+└── run_all.sh
