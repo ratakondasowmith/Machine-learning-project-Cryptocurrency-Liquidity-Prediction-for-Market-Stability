@@ -3,3 +3,38 @@ Cryptocurrency Liquidity Prediction for Market Stability
 Cryptocurrency markets are highly volatile, and liquidity plays a crucial role in market stability. Liquidity refers to the ease with which assets can be bought or sold without significantly impacting the price. A lack of liquidity can lead to increased price fluctuations and market instability.
 In this project, you are required to build a machine learning model to predict cryptocurrency liquidity levels based on various market factors such as trading volume, transaction patterns, exchange listings, and social media activity. The objective is to detect liquidity crises early to help traders and exchange platforms manage risks effectively.
 My final model should provide insights into market stability by forecasting liquidity variations, allowing traders and financial institutions to make informed decisions.
+Dataset Information
+
+Dataset Link:https://drive.google.com/drive/folders/10BRgPip2Zj_56is3DilJCowjfyT6E9AM
+
+#Tech Stack Used
+1 Python
+2️ Pandas
+3️ NumPy
+4️ Scikit-learn
+5️ RandomForestRegressor
+6️ Joblib
+7️ Matplotlib
+8️ Seaborn
+9 Streamlit
+10 Google Colab
+
+#Insfraustructure Used:
+1️Google Colab
+2️ Local System (macOS/Windows)
+3️ Visual Studio Code
+4️ Python Virtual Environment (venv)
+5️ Streamlit (Localhost Runtime)
+6️ Local File System
+
+#How To Run
+Install these first if you don’t already have them:
+Python 3.8+: https://www.python.org/downloads/
+VS Code: https://code.visualstudio.com/
+(Optional) Homebrew (for easy installs): /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+
+
+
+
+
